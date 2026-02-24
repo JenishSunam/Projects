@@ -1,2 +1,2 @@
 # Projects
-Sketchware Pro projects in a format that is accepted by android studio.
+A high-performance Multiplication Table engine optimized for 32-bit devices capable of Handeling up to 1.5M rows ( tested in redmi 9A )
